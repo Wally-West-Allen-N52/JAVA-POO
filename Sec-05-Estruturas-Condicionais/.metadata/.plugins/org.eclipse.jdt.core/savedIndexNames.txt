@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\wally\Desktop\Java-POO-Udemy\Sec-05-Estruturas-Condicionais\.metadata\.plugins\org.eclipse.jdt.core
+67190583.index
+2505423836.index
+1865797976.index

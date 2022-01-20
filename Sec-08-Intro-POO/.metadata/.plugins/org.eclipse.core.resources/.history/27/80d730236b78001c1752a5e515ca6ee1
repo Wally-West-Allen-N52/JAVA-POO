@@ -1,0 +1,8 @@
+package Entities;
+
+public class Retangle {
+	public double width;
+	public double height;
+	
+	
+}

@@ -1,0 +1,24 @@
+package Application;
+
+import java.util.Locale;
+import java.util.Scanner;
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner read = new Scanner(System.in);
+		
+		System.out.println("Enter raduis: ");
+		double radius = read.nextDouble();
+		
+		double c =  circunference(radius);
+		
+		double v = volume(radius);
+		
+		System.out.printf("Circunference: %.2f%n", c);
+		
+		read.close();
+	}
+
+}

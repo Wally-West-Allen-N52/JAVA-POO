@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\wally\Desktop\Java-POO-Udemy\Sec-06-Estruturas-Repeticao\.metadata\.plugins\org.eclipse.jdt.core
+1013661316.index
+1865797976.index
+2505423836.index

@@ -1,0 +1,25 @@
+package Entities;
+
+public class Retangle {
+	public double width;
+	public double height;
+
+	// operation/ function/ method
+	public double area() {
+		return width * height;
+	}
+
+	public double perimeter() {
+		return (width * 2) + (height * 2);
+	}
+
+	public double diagonal() {
+		return (width * width) + (height * height);
+	}
+
+	@Override
+	public String toString() {
+		return "Retangle [width=" + width + ", height=" + height + "]";
+	}
+
+}

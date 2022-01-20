@@ -1,0 +1,10 @@
+package Application;
+
+public class RetangleProgram {
+
+	public static void main(String[] args) {
+	int a, b, c;
+
+	}
+
+}

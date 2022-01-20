@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="Entities.triangle"/>
+    <fullyQualifiedTypeName name="Entities.Triangle"/>
+    <fullyQualifiedTypeName name="Entities.Area"/>
+    <fullyQualifiedTypeName name="java.awt.geom.Area"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="Application.ProductProgram"/>
+    <fullyQualifiedTypeName name="Entities.Product"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="Application.RetangleProgram"/>
+    <fullyQualifiedTypeName name="Entities.Retangle"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.ProcessBuilder.Redirect"/>
+    <fullyQualifiedTypeName name="Entities.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.security.AlgorithmConstraints"/>
+    <fullyQualifiedTypeName name="javax.swing.text.html.parser.Entity"/>
+    <fullyQualifiedTypeName name="util.Calculator"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

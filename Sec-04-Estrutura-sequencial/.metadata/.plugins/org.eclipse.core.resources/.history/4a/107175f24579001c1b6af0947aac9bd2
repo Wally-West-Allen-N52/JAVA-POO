@@ -1,0 +1,18 @@
+package Welcome;
+import java.util.Scanner;
+
+// Write a program that reads a person's name and displays "welcome"
+// Ex:
+// Qual é o seu nome? João da Silva
+// Olá João da Silva, é um prazer te conhecer!
+
+public class Welcome {
+
+	public static void main(String[] args) {
+		
+		Scanner read = new Scanner(System.in);
+		
+		System.out.print("");
+	}
+
+}

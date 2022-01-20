@@ -1,0 +1,8 @@
+import java.util.Scanner;
+
+public class Square {
+
+	Scanner read = new Scanner(System.in);
+	
+	System.out.println();
+}

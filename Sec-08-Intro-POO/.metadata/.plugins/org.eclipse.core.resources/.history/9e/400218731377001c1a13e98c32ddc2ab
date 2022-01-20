@@ -1,0 +1,6 @@
+package Entities;
+
+public class Area {
+	public double area;
+}
+area = (y.a + y.b + y.c) / 2;

@@ -1,0 +1,16 @@
+package SumNumbers;
+
+
+// Develop an algorithm that reads two integers and display sum between them
+// Example:
+// Enter a value: 8
+// Enter another value: 5
+A soma entre 8 e 5 é igual a 13
+public class sumNumbers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

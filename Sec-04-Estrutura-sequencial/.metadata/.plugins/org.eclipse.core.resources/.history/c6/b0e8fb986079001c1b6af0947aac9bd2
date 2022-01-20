@@ -1,0 +1,29 @@
+package SumNumbers;
+
+import java.util.Scanner;
+
+// Develop an algorithm that reads two integers and display sum between them
+// Example:
+// Enter a value: 8
+// Enter another value: 5
+// The sum between 8 and 5 is equal to 13
+
+public class sumNumbers {
+
+	public static void main(String[] args) {
+		
+		
+		Scanner read = new Scanner(System.in);
+		
+		sum
+		
+		System.out.print("Enter a value: ");
+		num1 = read.nextInt();
+		
+		System.out.print("Enter another value: ");
+		num2 = read.nextInt();
+		
+		
+	}
+
+}

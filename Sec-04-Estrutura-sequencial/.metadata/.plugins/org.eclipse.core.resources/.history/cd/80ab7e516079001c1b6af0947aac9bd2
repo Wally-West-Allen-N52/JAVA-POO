@@ -1,0 +1,10 @@
+package entity;
+
+public class sum {
+	
+	int num1, num2;
+	
+	public int sum() {
+		return num1 + num2;
+	}
+}

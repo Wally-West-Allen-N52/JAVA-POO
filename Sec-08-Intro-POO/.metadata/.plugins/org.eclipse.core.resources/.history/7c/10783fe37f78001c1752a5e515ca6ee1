@@ -1,0 +1,21 @@
+package Entities;
+
+public class Employee {
+	public String name;
+	public double grossSalary;
+	public double tax; // Imposto
+	
+	public double netSalary() {
+		return grossSalary - tax;
+	}
+	public double percentage() {
+		return grossSalary * netSalary();
+	}
+	public double increaseSalary() {
+		return grossSalary + (grossSalary * netSalary()); 
+	}
+	@Override
+	public String toString() {
+		return "Employee name: " + name + "\nNet salary $ " + String.format("%.2f",netSalary()) + "\nIncrease salary $" + String.format("%.2f", increaseSalary());
+	}
+}

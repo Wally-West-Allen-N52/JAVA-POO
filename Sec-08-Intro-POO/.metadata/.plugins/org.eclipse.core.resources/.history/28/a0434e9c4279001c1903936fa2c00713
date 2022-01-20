@@ -1,0 +1,34 @@
+package Application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		Locale.setDefault(Locale.US);
+		Scanner read = new Scanner(System.in);
+
+		System.out.print("What is the dollar price? ");
+		double dollarVal = read.nextDouble();
+
+		System.out.print("How many dollars well you buy?");
+		double buyDollar = read.nextDouble();
+
+		double v = buyDollar(dollarVal);
+		double b = buyDollar(buyDollar);
+		
+		System.out.println("Amount to be paid in reais R$" + v);
+		System.out.println("asdadas" + b);
+	}
+
+	public static double buyDollar(double dollarVal) {
+		return dollarVal * buyDollar(dollarVal);
+	}
+
+	public static double tax(double buyDollar) {
+		return buyDollar(buyDollar) - (buyDollar(buyDollar) * 0.06);
+	}
+
+}

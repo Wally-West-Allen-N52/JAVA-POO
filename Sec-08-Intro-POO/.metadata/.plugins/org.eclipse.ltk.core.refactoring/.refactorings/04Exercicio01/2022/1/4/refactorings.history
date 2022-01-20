@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Application.RetangleProgram&apos; to &apos;Program&apos;&#x0D;&#x0A;- Original project: &apos;04Exercicio01&apos;&#x0D;&#x0A;- Original element: &apos;Application.RetangleProgram&apos;&#x0D;&#x0A;- Renamed element: &apos;Application.Program&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RetangleProgram&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Application{RetangleProgram.java[RetangleProgram" matchStrategy="1" name="Program" qualified="false" references="true" similarDeclarations="false" stamp="1642522487224" textual="false" version="1.0"/>
+</session>

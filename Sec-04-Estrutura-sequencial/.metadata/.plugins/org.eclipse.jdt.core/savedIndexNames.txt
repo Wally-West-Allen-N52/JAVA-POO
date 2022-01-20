@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\wally\Desktop\Java-POO-Udemy\Sec-04-Estrutura-sequencial\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4184398575.index
+1049373745.index
+491008569.index

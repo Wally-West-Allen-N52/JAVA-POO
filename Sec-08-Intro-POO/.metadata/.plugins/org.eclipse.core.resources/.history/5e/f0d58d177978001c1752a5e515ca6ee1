@@ -1,0 +1,29 @@
+package Application;
+
+import java.lang.ProcessBuilder.Redirect;
+import java.util.Scanner;
+
+import Entities.Employee;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Scanner read = new Scanner(System.in);
+			Employee employee = new Employee(); // Instantiated "Employee"
+			
+			System.out.print("Employee name: ");
+			employee.name = read.next();
+			
+			System.out.print("Enter gross salary: ");
+			employee.grossSalary =  read.nextDouble();
+			
+			System.out.print("Enter tax: ");
+			employee.tax = read.nextDouble();
+			
+			System.out.print();
+			
+		read.close();
+	}
+
+}

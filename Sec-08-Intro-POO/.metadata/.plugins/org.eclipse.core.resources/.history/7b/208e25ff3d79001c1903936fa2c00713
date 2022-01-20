@@ -1,0 +1,22 @@
+package Application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner read = new Scanner(System.in);
+		
+		System.out.print("What is the dollar price? ");
+		double dollar = read.nextDouble();
+		
+		System.out.print("How many dollars well you buy?");
+		double buy = read.nextDouble();
+		
+		System.out.println("Amount to be paid in reais R$");
+	}
+
+}

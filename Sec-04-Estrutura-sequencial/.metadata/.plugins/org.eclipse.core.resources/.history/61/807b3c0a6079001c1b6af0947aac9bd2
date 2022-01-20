@@ -1,0 +1,6 @@
+package entity;
+
+public class sum {
+	
+	int num1, num2;
+}

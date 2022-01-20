@@ -1,0 +1,7 @@
+package util;
+
+public class Calculator {
+
+	// Keyword "final" defines an entity that can be assigned only once. Capital latter pattern 
+		public static final double PI = 3.14159;
+}

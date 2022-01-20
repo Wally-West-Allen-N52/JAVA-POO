@@ -1,0 +1,21 @@
+package Application;
+import java.util.Scanner;
+
+import Entities.Retangle;
+
+public class RetangleProgram {
+
+	public static void main(String[] args) {
+	
+		Scanner read =  new Scanner(System.in);
+		Retangle retanggle = new Retangle();
+			
+			System.out.print("Enter retangle Width: ");
+			retangle.width = read.next();
+			
+			System.out.println("Enter retnagle heiht: ");
+			
+		read.close();
+	}
+
+}
